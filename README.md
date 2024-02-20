@@ -10,25 +10,36 @@ Kumar S
 **1 Getting Started**\
 **committed by 5th February**\
 1 Hello World        completed
+
 2 Test               completed
+
 3 Personal Details   -- to do\
+
 4 Diamonds           -- to do\
 5 Questions          -- to do
 
 **2 Data and Expressions**\
 **committed by 19th February**\
 1 Table of Student Grades  completed
+
 2 Computing Averages       -- to do\
+
 3 Miles to Kilometers      -- to do\
+
 4 Square Calculation       -- to do\
+
 5 Fraction -- to do        -- to do
 
 **3 Selection and Iteration**\
 **committed by 26th February**\
 1 Computing a Pay Increase   completed
+
 2 Rock, Paper, Scissors      completed
+
 3 String Reverser            -- to do\
+
 4 Punctuation Marks          -- to do
+
 
 **4 Classes and Objects**\
 **committed by 4th March**\
